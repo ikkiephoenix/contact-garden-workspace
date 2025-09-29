@@ -1,0 +1,4 @@
+[submodule "stay-in-touch"]
+	path = stay-in-touch
+	url = https://github.com/ikkiephoenix/contact-garden.git
+	branch = main
