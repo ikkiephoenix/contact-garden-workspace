@@ -1,0 +1,2 @@
+  --non-interactive is not supported, use $CI=1 instead
+ConfigError: The expected package.json path: /Users/aldiharyopratomo/Documents/Contact Garden/package.json does not exist
